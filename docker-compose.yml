@@ -1,4 +1,4 @@
-volume:
+volumes:
   n8n_storage:
   ollama_storage:
   qdrant_storage:
